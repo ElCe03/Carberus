@@ -32,4 +32,4 @@ The system consists of three interconnected nodes:
     * *Hardware:* Arduino Uno + Servo Motor.
     * *Function:* Physically executes the locking/unlocking upon serial command from the ECU. Includes "Auto-Relock" safety logic.
 
-![System Diagram](path/to/your/architecture_diagram.jpg) ---
+
